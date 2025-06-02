@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&width=435&lines=Yukimura+Maybe)](https://git.io/typing-svg)
-</br>
-<img src='https://media1.tenor.com/m/2z7NVAVjM_YAAAAC/guts-berserk.gif' alt='Alt what' height='400' width='600'>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&width=435&lines=Info+...)](https://git.io/typing-svg)(https://git.io/typing-svg)
+<img src='https://media1.tenor.com/m/2z7NVAVjM_YAAAAC/guts-berserk.gif' alt='Alt what' height='300' width='600'>
+
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&width=435&lines=Info+...)
 <big><pre>
 &#62; ./send_me_an_email
 [yukimuramaybe@gmail.com](yukimuramaybe@gmail.com)
@@ -32,9 +32,7 @@
 
 ---
 
-<a href="https://tryhackme.com/p/lonelystar00" target="_blank" rel="noopener noreferrer">
-  <img src="https://tomsitcafe.com/wp-content/uploads/2023/01/tryhackme.png" alt="TryHackMe" width="40" height="40" />
-</a>
+
 
 <a href="https://tryhackme.com/p/lonelystar00" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-stats.vercel.app/api?username=whystare&show_icons=true&theme=graywhite&count_private=true&hide=stars" alt="GitHub Stats" />
