@@ -1,6 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&width=435&lines=Yukimura+Maybe)](https://git.io/typing-svg)
-
 <img src='https://media1.tenor.com/m/2z7NVAVjM_YAAAAC/guts-berserk.gif' alt='Alt what' height='300' width='600'>
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&width=435&lines=Yukimura+Maybe)](https://git.io/typing-svg)
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&width=435&lines=Info+...)
 <big><pre>
