@@ -11,22 +11,22 @@
 [tryhackme_profile](https://tryhackme.com/p/lonelystar00)
 </pre></big>
 
-### - I'm Jeff, I do breaking systems, fixing bugs, and questioning reality in the process...
+### Junior Pentester and OSINT Analyst. Testing security, analyzing open sources, and developing cybersecurity skills. Constantly learning, mastering new tools, and improving practical skills...
 
-<img width="200" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
+<img width="200" alt="GIF" align="left" src="https://i.pinimg.com/736x/13/c0/35/13c03571254d7a30b30d87baad5df05c.jpg">
   
 ### - Currently Learning
-- Data Structures & Algorithms
-- Python/Machine Learning
+- Web Application Security
+- OSINT Tools and Techniques
 - Ethical Hacking and Networks
-- Go/Distributed systems/Blockchain
-- Dart
-- Swift
+- Scripting with Python and Bash
+- Linux Administration
+- Network Security
 
 ### - Hobbies
-- Watching Anime
-- Cooking
-- Skateboarding
+- CTF Challenges
+- Reading books
+- Football
 <br>
 <a href="https://tryhackme.com/p/lonelystar00">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=whystare&show_icons=true&theme=shadow_red&count_private=true&hide=stars" />
@@ -40,6 +40,6 @@
 
 <img src='https://media1.tenor.com/m/2z7NVAVjM_YAAAAC/guts-berserk.gif' alt='Alt what' height='400' width='600'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat"  alt="Jeff" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whystare&label=Profile%20views&color=0e75b6&style=flat"  alt="whystare" /> </p>
 
 
